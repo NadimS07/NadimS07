@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NadimS07
-- 👀 I’m interested in operations, analytics, psychology, and product management
+- 👀 I’m interested in operations, analytics, psychology, and project management
 - 🌱 I’m currently learning Python, data analysis, and product-led growth strategies
 - 💞️ I’m looking to collaborate on open-source operations or product projects
 - 📫 How to reach me: nadimsheikh96@gmail.com
