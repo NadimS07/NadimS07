@@ -31,7 +31,7 @@ If your work aligns with any of these areas, let’s talk!
 ## 🛠️ Tools & Technologies
 
 **Languages & Programming**
-- SQL, Python, SQL, JavaScript, TypeScript, PHP, HTML, CSS, DAX
+- SQL, Python, SQL, JavaScript, TypeScript, PHP, HTML, CSS
 
 **BI & Analytics Tools**
 - Power BI, Power Query, DAX, Tableau, Excel
