@@ -31,13 +31,13 @@ If your work aligns with any of these areas, let’s talk!
 ## 🛠️ Tools & Technologies
 
 **Languages & Programming**
-- SQL, Python (learning), DAX
+- SQL, Python, SQL, JavaScript, TypeScript, PHP, HTML, CSS, DAX
 
 **BI & Analytics Tools**
-- Power BI, Power Query, Tableau, Excel
+- Power BI, Power Query, DAX, Tableau, Excel
 
 **Platforms & Systems**
-- Shopify, VRP, OMAS, WMS, Lofty, One Key MLS, Microsoft Clarity
+- Shopify, WMS, OMAS, VRP, Semrush, Lofty, OneKey MLS, Ecommerce Systems, DocuSign, Microsoft Clarity, MS Tools, AI Productivity Tools
 
 **Core Skills**
 - ✅ Project & Client Management  
@@ -64,4 +64,4 @@ If your work aligns with any of these areas, let’s talk!
 - 💼 LinkedIn: [linkedin.com/in/nadims07](https://www.linkedin.com/in/nadims07)
 - 🐦 Twitter/X: [@NadimS07](https://x.com/NadimS07)
 
-Thanks for visiting! Let’s build something impactful, human, and future-focused. 🚀
+Thanks for visiting! Let’s build something impactful, human, and future-focused. 
