@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm passionate about blending **operations**, **analytics*
 
 ## 🚀 What I’m Working On
 - ✅ **Expert in Power BI, DAX, SQL, and Tableau** — crafting high-impact dashboards and delivering actionable business intelligence.
+- 🧩 Working with **Airtable** to build lightweight databases, operational trackers, and workflow systems for better visibility and execution.
 - 🐍 Learning **Python** to enhance my automation skills, data processing, and backend logic capabilities.
 - 🧠 Exploring how **psychological frameworks** can support leadership, behavior analysis, and workplace culture.
 - 📚 Deep-diving into books on **psychology**, **decision-making**, and **data storytelling** to broaden both insight and impact.
